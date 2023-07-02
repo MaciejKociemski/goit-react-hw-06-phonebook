@@ -11,6 +11,7 @@
 .labelContainer {
   display: flex;
   flex-direction: column;
+ 
 }
 
 .input {
@@ -19,6 +20,7 @@
   margin-bottom: 20px;
   border: 1px solid gray;
   border-radius: 3px;
+  
 }
 
 .input:hover,
