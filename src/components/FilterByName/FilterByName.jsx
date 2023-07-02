@@ -10,7 +10,7 @@ export const Filter = () => {
 
   return (
     <label className={css.label}>
-      Find contacts by name
+      Find contacts by name:
       <input
         type="text"
         name="filter"
